@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/dec0dOS/amazing-github-template">
-    <img src="./agrof2f.png" alt="Logo">
+    <img src="./assets/agrof2f.png" alt="Logo">
   </a>
 </h1>
 
@@ -69,3 +69,35 @@ hinderance to his Learings.
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+### View:
+<h1 align="center">
+  <a href="">
+    <img src="./assets/register.png" alt="Logo">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="">
+    <img src="./assets/home.png" alt="Logo">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="">
+    <img src="./assets/news.png" alt="Logo">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="">
+    <img src="./assets/profile.png" alt="Logo">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="">
+    <img src="./assets/upload.png" alt="Logo">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="">
+    <img src="./assets/setting.png" alt="Logo">
+  </a>
+</h1>
