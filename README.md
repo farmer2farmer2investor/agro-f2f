@@ -98,6 +98,6 @@ hinderance to his Learings.
 </h1>
 <h1 align="center">
   <a href="">
-    <img src="./assets/setting.png" alt="Logo">
+    <img src="./assets/settings.png" alt="Logo">
   </a>
 </h1>
