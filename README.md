@@ -9,6 +9,9 @@
 
 - [About](#about)
   - [Motive](#Motive)
+- [f2f Repositories](#folder-structure)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
 - [Tech Stack](#tech-stack)
 - [tools](#tools)
 - [view](#view)
@@ -52,6 +55,10 @@ hinderance to his Learings.
 </td>
 </tr>
 </table>
+
+### 📁 Scraponics Repository: 
+- <a href="https://github.com/farmer2farmer2investor/f2f__frontend">🖵 frontend<a/>
+- <a href="https://github.com/farmer2farmer2investor/f2f__backend">🖥️ backend<a/>
 
 
 ### 💻 Tech Stack:
